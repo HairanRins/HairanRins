@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rino
 - 👀 I’m interested in the computer programming , web development and machine learning engineering 
-- 🌱 I’m currently learning Python , C , Golang , HTML/CSS , Javascript , MySQL , PHP , PostgreSQL , Node.js , Vue js 
+- 🌱 I’m currently learning Python , C , Golang , HTML/CSS , Javascript , MySQL , PHP , PostgreSQL , Node.js , React
 - 📫 How to reach me rinsart127@gmail.com
 
 <!---
