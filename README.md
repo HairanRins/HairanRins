@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rino
-- 👀 I’m interested in the computer programming , web development and machine learning engineering 
-- 🌱 I’m currently learning Python , C , Golang , HTML/CSS , Javascript , MySQL , PHP , PostgreSQL , Node.js , React
+- 👀 I’m interested in the computer programming , web development, machine learning engineering and Blockchain Development 
+- 🌱 I’m currently passionate about C, Python, Golang , Javascript , MySQL , PHP , Laravel, Three.js, Chart. js, Typescript, PostgreSQL , Node.js , React
+- 🥷 Apart from that, I'm passionate about maths, robotics and artificial intelligence. Personally interested in system architecture and technical development. 
 - 📫 How to reach me rinsart127@gmail.com
 
 <!---
