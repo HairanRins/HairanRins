@@ -9,4 +9,3 @@ HairanRins/HairanRins is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<script src="https://gist.github.com/HairanRins/59d2ff6f14ef2fa9fe7ad852057ec5a2.js"></script>
