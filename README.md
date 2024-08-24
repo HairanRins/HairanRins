@@ -17,4 +17,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Laravel-%E2%9C%94-brightgreen" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%E2%9C%94-blue" alt="Tailwind CSS" />
 </p>
