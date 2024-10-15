@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-%E2%9C%94-brightgreen" alt="Laravel" />
+  <img src="https://camo.githubusercontent.com/e24ac5b9b0238a4c52d79aa390e6d5e15838bebea09d4721e07045e73e9a868b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727573742d2532333030303030302e7376673f6c6f676f3d72757374266c6f676f436f6c6f723d7768697465" alt="rust" />
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
