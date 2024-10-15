@@ -20,8 +20,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="left">
    <img src="https://img.shields.io/badge/Laravel-%E2%9C%94-brightgreen" alt="Laravel" />
-   <img src="https://img.shields.io/badge/Tailwind%20CSS-%E2%9C%94-blue" alt="Tailwind CSS" />
-   <img src="https://img.shields.io/badge/Sass-%E2%9C%94-pink" alt="Sass" />
-   <img src="https://img.shields.io/badge/Rust-%E2%9C%94-red" alt="Rust" />
+    </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
 
