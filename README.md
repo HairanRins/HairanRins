@@ -45,6 +45,4 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HairanRins&theme=dark&hide_border=true"/>
 </p>
 
-![17308995152019050311624183250142](https://github.com/user-attachments/assets/fde3b7fc-a937-4287-b3a4-834582fd2471)
-
 
