@@ -29,11 +29,3 @@ You can click the Preview link to take a look at your changes.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
 </p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HairanRins&theme=dark&hide_border=true"/>
-</p>
-
-
