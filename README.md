@@ -33,15 +33,6 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/HairanRins">
-    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HairanRins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/HairanRins">
-    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HairanRins&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HairanRins&theme=dark&hide_border=true"/>
 </p>
 
