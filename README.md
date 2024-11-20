@@ -30,3 +30,17 @@ You can click the Preview link to take a look at your changes.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
 </p>
+
+
+<div align="center">
+  <a href="https://github.com/HairanRins">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HairanRins&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="HairanRins"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HairanRins&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="HairanRins"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/HairanRins">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HairanRins&&theme=tokyonight" alt="HairanRins" />
+  </a>
+</p>
+</div>
