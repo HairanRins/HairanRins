@@ -1,3 +1,6 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 - 👋 Hi, I’m Rino
 - 👀 I’m interested in the computer programming , web development, machine learning engineering , data analysis and FinTech Technologies
 - 🥷 Apart from that, I'm passionate about maths, robotics and artificial intelligence. Personally interested in system architecture and technical development. 
@@ -31,6 +34,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,express,firebase,github,html,js,linux,md,materialui,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://github.com/HairanRins">
