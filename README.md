@@ -34,11 +34,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,express,firebase,github,html,js,linux,md,materialui,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
 
 <div align="center">
   <a href="https://github.com/HairanRins">
