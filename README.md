@@ -42,8 +42,12 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/HairanRins">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HairanRins&&theme=tokyonight" alt="HairanRins" />
-  </a>
+  <h2>⭐ | Github Stats </h2>
+
+<div align="center">
+<a href="https://github.com/codediaz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HairanRins&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HairanRins&layout=compact&langs_count=7&theme=default"/></a>
+</div>
 </p>
 </div>
