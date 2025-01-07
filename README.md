@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HairanRins&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="HairanRins"/>
   </a>
 </div>
-<p align="center">
+<!-- <p align="center">
   <h2>⭐ | Github Stats </h2>
 
 <div align="center">
@@ -49,5 +49,5 @@ You can click the Preview link to take a look at your changes.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HairanRins&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HairanRins&layout=compact&langs_count=7&theme=default"/></a>
 </div>
-</p>
+</p> -->
 </div>
