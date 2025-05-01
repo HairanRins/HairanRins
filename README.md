@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 👋 Hi, I’m Rino
-- 👀 I’m interested in the computer programming , web development, mobile app, machine learning engineering , algorithm optimization and software architecture.
+- 👀 I’m interested in the computer programming , web development, mobile app, machine learning engineering , game development,  algorithm optimization and software architecture.
 - 🥷 Apart from that, I'm passionate about maths, robotics and artificial intelligence. Personally interested in system architecture and technical development. 
 - 📫 How to reach me rinsart127@gmail.com
 
