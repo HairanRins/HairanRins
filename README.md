@@ -10,7 +10,7 @@
 HairanRins/HairanRins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My Skills](https://skillicons.dev/icons?i=c,go,rust,py,cs,Spring-Boot, godot,js,ts,dart,flutter,react,tailwind,nodejs,express,nextjs,nestjs,flask,django,php,laravel,mysql,mongodb,pytorch,tensorflow,linux,git,docker,postman,figma,bash,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,rust,py,cs,spring-boot, godot,js,ts,dart,flutter,react,tailwind,nodejs,express,nextjs,nestjs,flask,django,php,laravel,mysql,mongodb,pytorch,tensorflow,linux,git,docker,postman,figma,bash,&perline=10)](https://skillicons.dev)
 
 
 <div align="center">
