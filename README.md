@@ -11,16 +11,4 @@ HairanRins/HairanRins is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 [![My Skills](https://skillicons.dev/icons?i=c,go,rust,py,cs,java,godot,js,ts,dart,flutter,react,tailwind,nodejs,express,nextjs,nestjs,flask,django,php,laravel,mysql,mongodb,postgresql,pytorch,tensorflow,linux,git,docker,postman,figma,bash,&perline=11)](https://skillicons.dev)
-
-
-<div align="center">
-  <a href="https://github.com/HairanRins">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HairanRins&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="HairanRins"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HairanRins&layout=compact&langs_count=7&theme=tokyonight"/></a>
-  </a>
-</div>
-<!-- <p align="center">
-  <h2>⭐ | Github Stats </h2>
-  
-</p> -->
 </div>
